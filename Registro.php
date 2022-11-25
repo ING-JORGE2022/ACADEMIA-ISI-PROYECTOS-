@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +12,7 @@
 </head>
 <body background="./imagenes/fondo.jpg">
     
- <form class="formulario" action="./index.html" method="POST">
+ <form class="formulario" action="./index.php" method="POST">
 
      <h1>Resgistrate</h1>
      <div class="contenedor">
@@ -35,7 +36,7 @@
 
             <div>
                <input type="submit" value="REGISTRAR" class="button">
-                <p> ¿Ya tienes una cuenta ?<a class="link" href="./index.html"> Inicar Sesion</a></p>
+                <p> ¿Ya tienes una cuenta ?<a class="link" href="./index.php"> Inicar Sesion</a></p>
             </div>
   
 

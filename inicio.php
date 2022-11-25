@@ -19,7 +19,9 @@
         <nav>
         <a href="#" class="nav-link" > INICIO</a>
         <a href="#" class="nav-link">  NOSOTROS</a>
-        <a href="./tabla.html" class="nav-link">  INFORMACION DE LENGUAJES DE PROGRMACION </a>
+        <a href="./tabla.html" class="nav-link"> TEMARIO DE CLASE </a>
+        <a href="./index.php" class="nav-linl"> CERRAR SECION</a>
+        </a>
         </nav>
 
     </header>
